@@ -1,0 +1,493 @@
+{
+    "Population": [
+        [
+            "Outside World",
+            313600.0
+        ],
+        [
+            "Rapa",
+            451
+        ],
+        [
+            "Rimatara",
+            893
+        ],
+        [
+            "Tubuai",
+            2185
+        ],
+        [
+            "Rurutu",
+            2163
+        ],
+        [
+            "Raivavae",
+            900
+        ],
+        [
+            "Huahine",
+            6263
+        ],
+        [
+            "Maupiti",
+            1302
+        ],
+        [
+            "Taha'a",
+            5296
+        ],
+        [
+            "Taputapuatea",
+            5007
+        ],
+        [
+            "Tumaraa",
+            3718
+        ],
+        [
+            "Uturoa",
+            3663
+        ],
+        [
+            "Bora Bora",
+            10758
+        ],
+        [
+            "Hiva-Oa",
+            2371
+        ],
+        [
+            "Ua Pou",
+            2168
+        ],
+        [
+            "Ua Huka",
+            719
+        ],
+        [
+            "Fatu-Hiva",
+            600
+        ],
+        [
+            "Nuku-Hiva",
+            3025
+        ],
+        [
+            "Tahuata",
+            595
+        ],
+        [
+            "Tureia",
+            261
+        ],
+        [
+            "Hao",
+            1227
+        ],
+        [
+            "Manihi",
+            1138
+        ],
+        [
+            "Makemo",
+            1391
+        ],
+        [
+            "Reao",
+            513
+        ],
+        [
+            "Arutua",
+            1736
+        ],
+        [
+            "Gambier",
+            1570
+        ],
+        [
+            "Fakarava",
+            1679
+        ],
+        [
+            "Nukutavake",
+            287
+        ],
+        [
+            "Takaroa",
+            1050
+        ],
+        [
+            "Fangatau",
+            323
+        ],
+        [
+            "Puka-Puka",
+            137
+        ],
+        [
+            "Napuka",
+            307
+        ],
+        [
+            "Rangiroa",
+            3761
+        ],
+        [
+            "Tatakoto",
+            180
+        ],
+        [
+            "Hikueru",
+            199
+        ],
+        [
+            "Anaa",
+            970
+        ],
+        [
+            "Taiarapu-East",
+            13602
+        ],
+        [
+            "Moorea-Maiao",
+            18201
+        ],
+        [
+            "Arue",
+            10322
+        ],
+        [
+            "Faa'a",
+            29826
+        ],
+        [
+            "Mahina",
+            14623
+        ],
+        [
+            "Teva I Uta",
+            10837
+        ],
+        [
+            "Paea",
+            12756
+        ],
+        [
+            "Papara",
+            11743
+        ],
+        [
+            "Papeete",
+            26654
+        ],
+        [
+            "Pirae",
+            14068
+        ],
+        [
+            "Punaauia",
+            28781
+        ],
+        [
+            "Hitia'a O Te Ra",
+            10196
+        ],
+        [
+            "Taiarapu-Ouest",
+            8371
+        ]
+    ],
+    "Communities": {
+        "Bora Bora": [
+            "Vaitape",
+            "Nunue",
+            "Matira",
+            "Anau",
+            "Faanui"
+        ],
+        "Huahine": [
+            "Fare"
+        ],
+        "Maupiti": [
+            "Vaiea"
+        ],
+        "Moorea-Maiao": [
+            "Vaiare"
+        ],
+        "Raiatea": [
+            "Uturoa"
+        ],
+        "Papeete": [
+            "Papeete",
+            "Pirae",
+            "Arue",
+            "Mahina",
+            "Hitia'a O Te Ra",
+            "Taiarapu-East",
+            "Taiarapu-Ouest",
+            "Teva I Uta",
+            "Papara",
+            "Paea",
+            "Punaauia",
+            "Faa'a"
+        ],
+        "Ahe": [
+            "Tenukupara"
+        ],
+        "Anaa": [
+            "Anaa"
+        ],
+        "Arutua": [
+            "Rautini"
+        ],
+        "Fakarava": [
+            "Rotoava"
+        ],
+        "Manihi": [
+            "Paeua"
+        ],
+        "Mataiva": [
+            "Pahua"
+        ],
+        "Rangiroa": [
+            "Avatoru"
+        ],
+        "Takapoto": [
+            "Fakatopatere"
+        ],
+        "Takaroa": [
+            "Teavaroa"
+        ],
+        "Tikehau": [
+            "Tuherahera"
+        ],
+        "Hao": [
+            "Otepa"
+        ],
+        "Makemo": [
+            "Pouheva"
+        ],
+        "Gambier": [
+            "Rikitea"
+        ],
+        "Hiva Oa": [
+            "Atuona"
+        ],
+        "Nuku Hiva": [
+            "Taiohae"
+        ],
+        "Ua Huka": [
+            "Vaipaee",
+            "Hane",
+            "Hokatu"
+        ],
+        "Ua Pou": [
+            "Hakahau"
+        ],
+        "Raivavae": [
+            "Anatonu"
+        ],
+        "Rimatara": [
+            "Amaru"
+        ],
+        "Rurutu": [
+            "Moerai"
+        ],
+        "Tubuai": [
+            "Mataura"
+        ]
+    },
+    "Connections": {
+        "Bora Bora": [
+            "Papeete",
+            "Fakarava",
+            "Huahine",
+            "Maupiti",
+            "Moorea-Maiao",
+            "Raiatea",
+            "Rangiroa",
+            "Tikehau",
+            "Taha'a"
+        ],
+        "Huahine": [
+            "Bora Bora",
+            "Moorea-Maiao",
+            "Raiatea",
+            "Papeete"
+        ],
+        "Maupiti": [
+            "Papeete",
+            "Bora Bora",
+            "Raiatea"
+        ],
+        "Moorea-Maiao": [
+            "Papeete",
+            "Bora Bora",
+            "Huahine",
+            "Raiatea"
+        ],
+        "Raiatea": [
+            "Papeete",
+            "Bora Bora",
+            "Huahine",
+            "Tikehau",
+            "Rangiroa",
+            "Taha'a"
+        ],
+        "Papeete": [
+            "Ahe",
+            "Anaa",
+            "Arutua",
+            "Bora Bora",
+            "Fakarava",
+            "Hao",
+            "Hiva Oa",
+            "Makemo",
+            "Gambier",
+            "Manihi",
+            "Mataiva",
+            "Maupiti",
+            "Moorea-Maiao",
+            "Nuku Hiva",
+            "Raiatea",
+            "Raivavae",
+            "Rangiroa",
+            "Rimatara",
+            "Rurutu",
+            "Tikehau",
+            "Tubuai",
+            "Ua Huka",
+            "Ua Pou",
+            "Huahine",
+            "Pirae",
+            "Faa'a"
+        ],
+        "Ahe": [
+            "Papeete"
+        ],
+        "Anaa": [
+            "Papeete"
+        ],
+        "Arutua": [
+            "Papeete"
+        ],
+        "Fakarava": [
+            "Papeete",
+            "Rangiroa"
+        ],
+        "Manihi": [
+            "Papeete"
+        ],
+        "Mataiva": [
+            "Papeete",
+            "Rangiroa"
+        ],
+        "Rangiroa": [
+            "Papeete",
+            "Fakarava",
+            "Mataiva",
+            "Tikehau"
+        ],
+        "Takapoto": [
+            "Papeete"
+        ],
+        "Takaroa": [
+            "Papeete"
+        ],
+        "Tikehau": [
+            "Papeete",
+            "Rangiroa",
+            "Fakarava"
+        ],
+        "Hao": [
+            "Papeete"
+        ],
+        "Makemo": [
+            "Papeete"
+        ],
+        "Gambier": [
+            "Papeete"
+        ],
+        "Hiva Oa": [
+            "Papeete",
+            "Nuku Hiva"
+        ],
+        "Nuku Hiva": [
+            "Papeete",
+            "Hiva Oa",
+            "Ua Huka",
+            "Ua Pou"
+        ],
+        "Ua Huka": [
+            "Papeete",
+            "Ua Pou"
+        ],
+        "Ua Pou": [
+            "Papeete",
+            "Nuku Hiva",
+            "Ua Huka"
+        ],
+        "Raivavae": [
+            "Papeete",
+            "Tubuai"
+        ],
+        "Rimatara": [
+            "Papeete",
+            "Rurutu"
+        ],
+        "Rurutu": [
+            "Papeete",
+            "Tubuai"
+        ],
+        "Tubuai": [
+            "Papeete",
+            "Rurutu"
+        ],
+        "Taha'a": [
+            "Bora Bora",
+            "Raiatea"
+        ],
+        "Outside World": [
+            "Papeete"
+        ],
+        "Pirae": [
+            "Papeete"
+        ],
+        "Arue": [
+            "Pirae",
+            "Mahina"
+        ],
+        "Mahina": [
+            "Arue",
+            "Hitia'a O Te Ra"
+        ],
+        "Hitia'a O Te Ra": [
+            "Mahina"
+        ],
+        "Taiarapu-East": [
+            "Taiarapu-Ouest"
+        ],
+        "Taiarapu-Ouest": [
+            "Taiarapu-East"
+        ],
+        "Teva I Uta": [
+            "Papara"
+        ],
+        "Papara": [
+            "Paea",
+            "Teva I Uta"
+        ],
+        "Paea": [
+            "Punaauia",
+            "Papara"
+        ],
+        "Punaauia": [
+            "Paea",
+            "Faa'a"
+        ],
+        "Faa'a": [
+            "Papeete",
+            "Punaauia"
+        ]
+    }
+}
